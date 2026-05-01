@@ -1,2 +1,2 @@
-# This-or-That-Canvas
-copy in your This or That code.
+# Bar-Chart-Canvas-Exemplar-App
+This is the exemplar app for the Bar-Chart-Canvas repository
